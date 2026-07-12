@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://icanhazdadjoke.com/api
 common:
+  - type: DomainSecurity
+    url: security/icanhazdadjoke-domain-security.yml
   - type: Website
     url: https://icanhazdadjoke.com/api
   - type: PublicAPIsListing
