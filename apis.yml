@@ -39,7 +39,6 @@ apis:
   - name: icanhazdadjoke
     description: "The largest selection of dad jokes on the internet"
     humanURL: https://icanhazdadjoke.com/api
-    baseURL: https://icanhazdadjoke.com/api
     tags:
       - Personality
     properties:
